@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -126,18 +125,16 @@ button:hover {
 
     <div class="heart">❤️</div>
 
-    <h1>I'm Sorry</h1>
+    <h1>AKU MINTA MAAF YAAAA</h1>
 
     <div class="name">
-        Syakira Nuryasa Kusuma
+        TAYANG AKUUU Syakira Nuryasa Kusuma
     </div>
 
     <p>
-        Ada sesuatu yang ingin aku sampaikan.
-        Mungkin kata maaf tidak bisa langsung
-        memperbaiki semuanya, tetapi aku ingin
-        kamu tahu bahwa aku benar-benar ingin
-        memperbaiki keadaan.
+        SAYANGGGGGG INI AKUUUU🥹🥹🥹
+        <br> ini aku yang selalu kangen sama kamuu
+        selalu mikirin kamu, selalu overthinking tentang kamu, dan selalu cerewet sama kamu.
     </p>
 
     <button onclick="bukaPesan()">
@@ -151,26 +148,22 @@ button:hover {
         </h2>
 
         <p>
-            Aku minta maaf atas kesalahan yang
-            sudah aku lakukan.
+            cayangg... <br>
+            aku sadar aku banyak salah sama kamu, aku belum layak untuk kanu
             <br><br>
-            Aku sadar mungkin ada perkataan atau
-            sikapku yang membuat kamu kecewa.
-            Aku tidak ingin menganggap perasaanmu
-            sebagai sesuatu yang sepele.
+            Aku selalu saja buat salah karena aku yang terlalu bodoh
+            aku selalu buat mood kamu berantakan, buat kamu marah
             <br><br>
-            Aku tidak meminta kamu langsung
-            melupakan semuanya. Aku hanya berharap
-            kamu mau memberiku kesempatan untuk
-            memperbaiki kesalahanku melalui sikap,
-            bukan hanya kata-kata.
+            Aku selalu sayang samaa kamu tayangg, aku selalu mikirin kamu,
+            aku selalu kangen kamu, aku selalu overthinking tentang kamu,
+            aku gamau kehilangan kamuu, aku gamau kamu pergii
             <br><br>
             Terima kasih sudah membaca pesan ini.
-            Maaf ya, Syakira. ❤️
+            Maaf ya, tayang aku tercinta. ❤️
         </p>
 
         <h3 style="color:#ff4f81; margin-top:20px;">
-            I'm Truly Sorry ❤️
+            aku minta maaf❤️
         </h3>
 
     </div>
